@@ -1,0 +1,13 @@
+{
+  "required": true,
+  "package": "cn.cscmoe.cmmt.mixins",
+  "compatibilityLevel": "JAVA_17",
+  "minVersion": "0.8",
+  "refmap": "cmmt.refmap.json",
+  "client": [],
+  "server": [],
+  "mixins": [],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}

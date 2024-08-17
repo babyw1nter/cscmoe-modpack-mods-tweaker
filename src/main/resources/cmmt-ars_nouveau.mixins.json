@@ -1,0 +1,15 @@
+{
+  "required": true,
+  "package": "cn.cscmoe.cmmt.mixins.ars_nouveau",
+  "compatibilityLevel": "JAVA_17",
+  "minVersion": "0.8",
+  "refmap": "cmmt-ars_nouveau.refmap.json",
+  "client": [],
+  "server": [],
+  "mixins": [
+    "PortalTileMixin"
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}
